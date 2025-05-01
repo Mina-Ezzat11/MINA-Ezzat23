@@ -1,4 +1,4 @@
-<!doctype hyml>
+
 <html>
   <head>
     <title>mina ezzat</title>
@@ -9,7 +9,7 @@
         هرم خوفو </h1>
     </div>
     <div style="background-color:yellow;">
-         >
+       
       <h2> المقدمه </h2>
     </br>
   
